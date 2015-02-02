@@ -1,0 +1,422 @@
+=Maps=
+===Bank 2A A8000===
+A8000-A81C1 Route 32
+
+A81C2-A8275 Route 40
+
+A8276-A8383 Route 36
+
+A8384-A8491 Route 44
+
+A8492-A8545 Route 28
+
+A8546-A8551 **Hiro's House (COPY)**
+
+A8552-A86B9 Celadon City
+
+A86BA-A8821 Saffron City
+
+A8822-A892F Route 2
+
+A8930-A893F Prof Elm's House
+
+A8940-A8999 **Beta Gym** (Jap Tower)
+
+A899A-A8A4D Route 11
+
+A8A4E-A8AA7 **Beta Room** (Jap Tower)
+
+
+
+A8AAA-A8B5B Route 15
+
+A8B5C-A8B7F **Beta Room** (Jap Tower)
+
+A8B80-A8C33 Route 19
+
+A8C34-A8D9B **Beta Ecruteak** (Johto)
+
+A8D9C-A8DF5 Route 10 (2)
+
+A8DF6-A8E15 Cable Club
+
+A8E16-A909A Route 41
+
+A909B-A9112 Route 33
+
+A9113-A92D4 Route 45
+
+A92D5-A93E2 Route 29
+
+A93E3-A943C Route 37
+
+A943D-A9496 Lavender Town
+
+A9497-A94F0 Pallet Town
+
+A94F1-A95FE Route 25
+
+A95FF-A9658 Route 24
+
+A9659-A97C0 **Beta Violet** (Johto)
+
+A97C1-A98CE Route 3
+
+A98CF-A9A36 Pewter City
+
+A9A37-A9B9D **Beta Route** (Johto)
+
+A9B9F-A9BF8 **Beta Room** (Jap Tower)
+
+A9BF9-A9D06 Route 12
+
+A9D07-A9E6E **Beta Goldenrod** (Johto)
+
+A9E6F-A9F7C Route 21
+
+A8F7D-A9FD6 **Beta Room** (Jap Tower)
+
+A9FD7-A9FF6 **Beta Pokecenter**
+
+A9FF7-AA104 Route 30
+
+AA105-AA320 Route 26
+
+AA321-AA52E Route 42
+
+AA42F-AA53C Route 34 
+
+AA53D-AA5F0 Route 46
+
+AA5F1-AA758 Fuchsia City
+
+AA759-AA80C Route 38
+
+AA80D-AA866 **Beta Town**
+
+AA867-AA876 Houses
+
+AA877-AA88A Route Gate 1
+
+AA88B-AA9F2 **Beta Blackthorn** 
+
+AA9F3-AAA4C **Beta Cherrygrove**
+
+AAA4D-AAAA6 Cinnibar Island
+
+AAAA7-AAB5A Route 4
+
+AAB5B-AAC0E Route 8
+
+AAC0F-AAC68 **Beta Room** (Jap Tower)
+
+AAC69-AADD0 Viridian City
+
+AADD1-AAEDE Route 13
+
+AAEDF-AAF92 Route 21
+
+AAF93-AAFEC **Beta Room** (Jap Tower)
+
+AAFED-AB1AE Route 17
+
+AB1AF-AB208 **Beta Mahogany**
+
+AB209-AB2BC Route 31
+
+AB2BD-AB424 Route 27
+
+AB425-AB4D8 Route 35
+
+AB4D9-AB5E6 Route 43
+
+AB5E7-AB69A Route 39
+
+AB69B-AB6AE Hiro's House
+
+AB6AF-AB6C2 Route Gate 2
+
+AB6C3-AB82A **Beta Town**
+
+AB82B-AB992 Vermilion City
+
+AB993-ABAFA **Beta Olivine**
+
+ABAFB-ABB54 **Beta Town**
+
+ABB55-ABB72 Prof. Elm's Lab
+
+ABB73-ABCDA Cerulean City
+
+ABCDB-ABD8E Route 1
+
+ABD8F-ABDE8 Route 5
+
+ABDE9-ABEF6 Route 9
+
+ABEF7-ABFAA Route 22
+
+ABFAB-ABFFF Blank data
+
+===Bank 2B AC000===
+AC000-AC0B3 Route 14
+
+AC10E-AC125 Mart
+
+AC126-AC17F Route 10 (1)
+
+AC180-AC2E7 **Beta Lake of Rage**
+
+AC2E8-AC2FB Pokecenter
+
+AC340-AC35F School
+
+AC360-AC383 MAP FROM POKEMON RED (LAB HALLWAY!)
+
+AC384-AC393 MAP FROM POKEMON RED (LAB1!)
+
+AC394-AC3A3 MAP FROM POKEMON RED (LAB2!)
+
+AC3A4-AC3B3 MAP FROM POKEMON RED (LAB3!)
+
+AC3B4-AC3D3 Big Mart (1)
+
+AC3D4-AC3F3 Big Mart (2)
+
+AC3F4-AC413 Big Mart (3)
+
+AC414-AC433 Big Mart (4)
+
+AC434-AC453 Big Mart (5)
+
+AC454-AC473 Big Mart (6)
+
+AC474-AC477 Big Mart (Elevator)
+
+AC478-AC48B Celadon Mansion (1)
+
+AC48C-AC49F Celadon Mansion (2)
+
+AC4A0-AC4B3 Celadon Mansion (3)
+
+AC4B4-AC4C7 Celadon Mansion (4)
+
+AC4C8-AC4D7 **Celadon Mansion (5) BETA**
+
+AC4D8-AC51D Celadon Casino
+
+AC51E-AC526 Celadon Prizes
+
+AC527-AC53A Battle Room
+
+AC53B-AC54E Trading Room
+
+AC54F-AC55E Japanese House
+
+AC55F-AC5B8 **BETA Cave**
+
+AC8B9-AC66C Union Cave (2)
+
+AC66D-AC720 Union Cave (3)
+
+AC721-AC7D4 Union Cave (1)
+
+AC7D5-AC9F0 National Park
+
+AC9F1-ACA00 Underground Gates
+
+ACA01-ACA10 **Beta Pokecenter**
+
+ACA11-ACA30 Kurt's House
+
+ACA31-ACA8A Train Station
+
+ACA8B-ACB3E Ruins of Alph Outside
+
+ACB40-ACB52 **Ruins of Alph Small Room COPY**
+
+ACB53-ACB66 Ruins of Alph Small Room
+
+ACB67-ACBF2 Ruisn of Alph Basement
+
+ACBF3-ACC4C Sprout Tower (1)
+
+ACC4D-ACCA6 Sprout Tower (2)
+
+ACCA7-ACD00 Sprout Tower (3)
+
+ACD01-ACD24 Radio Tower (1)
+
+ACD25-ACD48 Radio Tower (2)
+
+ACD49-ACD6C Radio Tower (3)
+
+ACD6D-ACD90 Radio Tower (4)
+
+ACD91-ACDB4 Radio Tower (5)
+
+ACDB5-ACE0E New Bark Town
+
+ACE0F-ACEC2 Cerrrygrove City
+
+ACEC3-AD02A Violet City
+
+AD02B-AD0DE Azalea Town
+
+AD0DF-AD273 Cianwood City
+
+AD274-AD3DB Goldenrod City
+
+AD3DC-AD543 Olivine City
+
+AD544-AD6AB Ecruteak City
+
+AD6AC-AD705 Mahogany Town
+
+AD706-AD86D Lake of Rage
+
+AD86E-AD9D5 Blackthorn City
+
+AD9D6-ADB3D Outside Silver Cave
+
+ADB3E-ADB97 Route 6
+
+ADB98-ADBF1 Route 7
+
+ADBF2-ADC4B Route 16
+
+ADC4C-ADCA5 Route 18
+
+ADCA6-ADDB3 Goldenrod Underground
+
+ADDB4-ADEC1 Switch Room
+
+ADEC2-ADF1B Goldenrod Mart Basement
+
+ADF1C-ADF75 Goldenrod Storage Room
+
+ADF76-ADF8E **Elevator COPY* 5x5
+
+ADF8F-ADFE8 Tin Tower (1)
+
+ADFE9-AE042 Tin Tower (2)
+
+AE043-AE09C Tin Tower (3)
+
+AE09D-AE0F6 Tin Tower (4)
+
+AE0F7-AE050 Tin Tower (5)
+
+AE151-AE1AA Tin Tower (6)
+
+AE1AB-AE204 Tin Tower (7)
+
+AE205-AE25E Tin Tower (8)
+
+AE25F-AE2B8 Tin Tower (9)
+
+AE2B9-AE312 Tin Tower (10)
+
+AE313-AE36C Burned Tower (1)
+
+AE36D-AE3C6 Burned Tower (2)
+
+AE3C7-AE4D4 **Burned Tower (3) BETA** 15x18
+
+AE4D5-AE63C Mt. Moltar (1)
+
+AE63D-AE858 Mt. Moltar (2)
+
+AE859-AE9C0 Mt. Moltar (3)
+
+AE9C1-AEB28 Mt. Moltar (4)
+
+AEB29-AEC90 Ice Path (1)
+
+AEC91-AED44 Ice Path (2)
+
+AED45-AED9E Ice Path (3)
+
+AED9F-AEDCB Ice Path (4)
+
+AEDCC-AEE25 Ice Path (5)
+
+AEE26-AEE52 Whirl Islands (1)
+
+AEE53-AEEAC Whirl Islands (2)
+
+AEEAD-AEF06 Whirl Islands (3)
+
+AEF07-AEF33 Whirl Islands (4)
+
+AEF34-AEF60 Whirl Islands (5)
+
+AEF61-AF0C8 Whirl Islands (6)
+
+AF0C9-AF17C Whirl Islands (7)
+
+AF17D-AF1D6 Whirl Islands (8)
+
+AF1D7-AF28A Silver Cave (1)
+
+AF28B-AF398 Silver Cave (2)
+
+AF399-AF44C Silver Cave (3)
+
+AF44D-AF55A **Team Rocket Hideout? BETA**
+
+AF55B-AF668 **Team Rocket Hideout? BETA**
+
+AF669-AF776 **Room BETA** 15x18 *Jap Tower Tileset*
+
+AF777-AF884 **Team Rocket Hideout? BETA**
+
+AF885-AF894 Mahogany Shop
+
+AF895-AF91B Team Rocket Hideout (1)
+
+AF91C-AF9A2 Team Rocket Hideout (2)
+
+AF9A3-AFA29 Team Rocket Hideout (3)
+
+AFA2A-AFA83 **Route 23? BETA**
+
+AFA84-AFAC2 Indigo Plateau Lobby
+
+AFAC2-AFAEF Indigo Room 1
+
+AFAF0-AFB1C Indigo Room 2
+
+AFB1D-AFB49 Indigo Room 3
+
+AFB4A-AFB76 Indigo Room 4
+
+AFB77-AFB9E Azalea Gym
+
+AFB9F-AFBC6 Violet Gym
+
+AFBC7-AFC20 Goldenrod Gym
+
+AFC21-AFC4D Ecruteak Gym
+
+AFC4E-AFC7A Magohany Gym
+
+AFC7B-AFCA2 Olivine Gym
+
+AFCB7-AFCE3 Cianwood Gym
+
+AFCE4-AFD10 Blackthorn Gym (1)
+
+AFD11-AFD3D Blackthorn Gym (2)
+
+AFD3E-AFD97 Lighthouse (1)
+
+AFD98-AFDF1 Lighthouse (2)
+
+AFDF2-AFE4B Lighthouse (3)
+
+AFE4C-AFEA5 Lighthouse (4)
+
+AFEA6-AFEFF Lighthouse (5)
+
+AFF00-AFF59 Lighthouse (6)
