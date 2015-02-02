@@ -23,6 +23,11 @@ if __name__ == '__main__':
             byte = gold_rom.read(1)
             offset = hex(pallet_town.end - bytes_to_read - 1)
 
+            FSP_repr = hex_to_FSP.get(byte)
+            if FSP_repr:
+                byte = FSP_repr
+
+
             print("{}    {}".format(offset, byte))
 
             if (int(offset, 16) == pallet_town.end):

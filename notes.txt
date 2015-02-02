@@ -1,0 +1,1 @@
+relative position (FSP.player.left + FSP.MapScreener.left) / FSP.unitsize
