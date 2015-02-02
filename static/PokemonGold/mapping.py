@@ -1,23 +1,31 @@
 hex_to_FSP = {
-        b"R"    : "FenceWide",
-        b"O"    : "FenceVertical",
-        b"\x0b" : "Grass"
 
-}
+    # Bedroom in Pallet Town
 
+    0x3   : "FloorTiledDiagonal",
+    0x10  : "ComputerDesk", 
+    0x20  : "Table2x2", 
+    0x22  : "BedSingle",
+    0xb   : "StairsDown", 
+    0x13  : "ConsoleAndController",
 
-
-
-
-
-
-
+    }
 
 
 
 
 
-town_to_hex = {'**BETA Cave**': ('AC55F', 'AC5B8'),
+
+
+
+
+
+
+
+
+town_to_hex = {
+        'Bedroom' : ('DCBA6', 'DCBB5'), 
+        '**BETA Cave**': ('AC55F', 'AC5B8'),
         '**Beta Blackthorn**': ('AA88B', 'AA9F2'),
         '**Beta Cherrygrove**': ('AA9F3', 'AAA4C'),
         '**Beta Ecruteak** (Johto)': ('A8C34', 'A8D9B'),
