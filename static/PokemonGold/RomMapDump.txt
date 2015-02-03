@@ -1,3 +1,4 @@
+===Bank 2A A8000===
 A8000-A81C1 Route 32
 
 A81C2-A8275 Route 40
@@ -418,3 +419,144 @@ AFE4C-AFEA5 Lighthouse (4)
 AFEA6-AFEFF Lighthouse (5)
 
 AFF00-AFF59 Lighthouse (6)
+
+===Bank 37 DC000===
+DC000-DC022 **Beta Cave** Tileset 21 5x7
+
+DC023-DC07C Slowpoke Well (1)
+
+DC07D-DC0D6 Slowpoke Well (2)
+
+DC0D7-DC26B Ilex Forest
+
+DC26C-DC3D3 Dark Cave (1)
+
+DC3D4-DC4E1 Dark Cave (2)
+
+DC4E2-DC4F1 Ruins of Alph House
+
+DC4F2-DC501 Bike Shop
+
+DC502-DC52B Ecruteak Dance House
+
+DC52C-DC585 Ecruteak Underground (1)
+
+DC856-DC8CB Goldenrod Casino
+
+DC5CC-DC5DB National Park Gate (1)
+
+DC5DC-DC5EF National Park Gate (2)
+
+DC5F0-DC67F Fast Ship (1)
+
+DC680-DC6FF Fast Ship (2)
+
+DC710-DC74F Fast Ship (3)
+
+DC750-DC78F Fast Ship (4)
+
+DC790-DC7E4 Fast Ship (5)
+
+DC7E5-DC898 Olivine Peer
+
+DC899-DC94C Vermiloin City
+
+DC94D-DC95C Fuchsia Restaraunt
+
+DC95D-DC968 Hiro's Room
+
+DC969-DC9C2 Saffron Train Station
+
+DC9C3-DC9EA Cerulean Gym
+
+DC9EB-DCA17 Vermilion Ftm
+
+DCA18-DCA71 Saffron Gym
+
+DCA72-DCACB Power Plant
+
+DCACC-DCADF Fan Club
+
+DCAE0-DCAFD Saffron Dojo
+
+DCAFE-DCB1D Silph Co.
+
+DCB1E-DCB4A Viridian Gym
+
+DCB4B-DCB6D Trainer House (1)
+
+DCB6E-DCB95 Trainer House (2)
+
+DCB96-DCBA5 Ash's House
+
+DCBA6-DCBB5 Ash's Room
+
+DCBB6-DCBD3 Oak's Lab
+
+DCBD4-DCBE7 Lavender House
+
+DCBE8-DCC0F Lav Radio Tower
+
+DCC10-DCC69 Silver Cave (4)
+
+DCC6A-DCC7D Day Care House
+
+DCC7E-DCC91 Lavender Rest House
+
+DCC92-DCCB4 Pewter Gym
+
+DCCB5-DCCE1 Celadon Gym
+
+DCCF6-DCD0D Celadon Restaraunt
+
+DCD0E-DCD25 **Beta Room**  Tileset 12 6x4
+
+DCD26-DCE33 Rock Tunnel (1)
+
+DCE34-DCF41 Rock Tunnel (2)
+
+DCF42-DCFF5 Digletts Cave
+
+DCFF6-DD07C Mt. Moon
+
+DD07D-DD090 Seafoam Islands
+
+DD091-DD0A0 Mr. Pokemn's House
+
+DD0A1-DD0FA Route 22/26/23/28 Gate
+
+DD0FB-DD154 Olivine/Vermilion Underground
+
+DD155-DD181 Fuchsia Gym
+
+DD182-DD235 Safari Zone
+
+DD236-DD25F Kanto Underground
+
+DD260-DD26F Miltank Pen
+
+DD270-DD3D7 Victory Roady
+
+DD3D8-DD431 Route 23
+
+DD432-DD46D Lance
+
+DD46E-DD490 Hall of Fame Room
+
+DD491-DD4A0 Copycats House 
+
+DD4A1-DD4AF Copycats Room
+
+DD4B0-DD4BF Flower Slop
+
+DD4C0-DD546 Mt. Moon Square
+
+DD547-DD556 Ecruteak Underground (2)
+
+DD557-DD583 Dragon's Den (1)
+
+DD584-DD6EB Dragon's Den (2)
+
+DD6EC-DD772 Tohjo Falls
+
+DD773-E0803 Tilesets
