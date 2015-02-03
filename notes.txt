@@ -1,1 +1,5 @@
 relative position (FSP.player.left + FSP.MapScreener.left) / FSP.unitsize
+
+
+start @ 550, 350
+        top  left
